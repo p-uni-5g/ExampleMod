@@ -1,5 +1,6 @@
-# ExampleMod
-An example of a simple mod for Mindustry.
+# ExampleMod is Archived
+
+The sprites and code here do not serve as a good example; a new mod repository will be made for V6 that showcases more modding features.
 
 ## Importing
 
